@@ -12,7 +12,7 @@
 
 ## Website
 
-[Website & Project Overview Here](https://alexleonida.netlify.app/)
+[Website & Project Overview Here](https://alexleonida.dev)
 
 ---
 
