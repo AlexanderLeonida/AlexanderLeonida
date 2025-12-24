@@ -25,6 +25,30 @@
 
 ---
 
+## Personal Projects
+
+### **CrawlNet — GNN Structured Inputs**
+<p align="center">
+  <img src="10k Default.png" alt="CrawlNet crawl graph" width="80%" style="border-radius:12px;"/>
+</p>
+
+A domain-aware graph data pipeline that transforms **10,000+ website crawls** into structured **GNN inputs** for ML workloads.
+
+- Clusters and preprocesses data by domain (Perl → Python pipeline)
+- Generates clean, structured graph inputs for downstream GNN models
+- Visualizes the crawl topology as an interactive web graph
+- **Improved preprocessing reliability & data quality by 30%**
+- Clusters nodes by domain name
+
+**Tech:** Perl, Python, Graph preprocessing, GNN input engineering
+
+#### Small Scale Demo (300 Nodes)
+<video width="100%" controls>
+  <source src="300-Default.mp4" type="video/mp4">
+</video>
+
+---
+
 ## 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -50,3 +74,7 @@
 - Email: [aleonidab@gmail.com](mailto:aleonidab@gmail.com)
 - Phone: [808-518-0793](tel:8085180793)
 ---
+
+<p align="center">
+  Thanks for stopping by — have a great day! ✨
+</p>
