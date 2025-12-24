@@ -41,10 +41,7 @@ A domain-aware graph data pipeline that transforms **10,000+ website crawls** in
 
 **Tech:** Perl, Python, Graph preprocessing, GNN input engineering
 
-#### Small Scale Demo (300 Nodes)
-<video width="100%" controls>
-  <source src="300-Default.mp4" type="video/mp4">
-</video>
+#### [Small Scale Demo (300 Nodes)](https://drive.google.com/drive/folders/1W4SBE8ZgFdq2GNtAUrE4DAvBCazlgSDZ?usp=sharing)
 
 ---
 
