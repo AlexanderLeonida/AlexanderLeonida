@@ -36,9 +36,8 @@ A domain-aware graph data pipeline that transforms **10,000+ website crawls** in
 
 - Clusters and preprocesses data by domain (Perl → Python pipeline)
 - Generates clean, structured graph inputs for downstream GNN models
-- Visualizes the crawl topology as an interactive web graph
+- Visualizes the crawl topology as an interactive web graph signaling health of website with button toggle
 - **Improved preprocessing reliability & data quality by 30%**
-- Clusters nodes by domain name
 
 **Tech:** Perl, Python, Graph preprocessing, GNN input engineering
 
