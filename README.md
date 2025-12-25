@@ -25,25 +25,6 @@
 
 ---
 
-## Personal Projects
-
-### **CrawlNet — GNN Structured Inputs**
-<p align="center">
-  <img src="10k Default.png" alt="CrawlNet crawl graph" width="80%" style="border-radius:12px;"/>
-</p>
-
-A domain-aware graph data pipeline that transforms **10,000+ website crawls** into structured **GNN inputs** for ML workloads.
-
-- Clusters and preprocesses data by domain (Perl → Python pipeline)
-- Generates clean, structured graph inputs for downstream GNN models
-- Visualizes the crawl topology as an interactive web graph signaling health of website with button toggle
-- **Improved preprocessing reliability & data quality by 30%**
-
-**Tech:** Perl, Python, Graph preprocessing, GNN input engineering
-
-#### [Small Scale Demo (300 Nodes)](https://drive.google.com/drive/folders/1W4SBE8ZgFdq2GNtAUrE4DAvBCazlgSDZ?usp=sharing)
-
----
 
 ## 🛠️ Languages
 
