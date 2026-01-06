@@ -18,9 +18,9 @@
 
 ## 🧠 About Me
 
-- 💸 I’m currently working on an offline HFT simulator in C++ for my own learning.
-- 🪐 I've always been interested in space!
-- 💬 I'd love to chat about SWE, HFT, AI, or Music!
+- I’m currently working on learning the classical guitar!
+- I've always been interested in space!
+- I'd love to chat about MLE, SWE, HFT, Music, or Food!
 - 🐾 I pair program with my pets
 
 ---
