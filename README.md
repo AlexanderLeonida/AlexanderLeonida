@@ -53,5 +53,8 @@
 ---
 
 <p align="center">
-  Thanks for stopping by — have a great day! ✨
+Commit history is majority on my University Gitlab Profile until May 2027
+</p>
+<p align="center">
+  Thanks for stopping by — have a great day! 
 </p>
